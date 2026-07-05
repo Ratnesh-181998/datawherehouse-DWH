@@ -1,6 +1,12 @@
 # DataWhereHouse(DWH)
 
 - https://www.databricks.com/discover/data-warehouse
+- https://github.com/DataWithBaraa/sql-data-warehouse-project
+- https://github.com/topics/data-warehouse?l=plpgsql&o=desc&s=forks
+- https://github.com/topics/dwh?l=tsql
+- https://github.com/topics/data-warehouse?l=c%23&utf8=%E2%9C%93
+
+  
 ---
 
 ## What is a data warehouse?
